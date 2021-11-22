@@ -9,37 +9,39 @@ It look delicious, looking forward to tasting it.
 ![photo of cake](./cake.jpg)
 
 #### Prep: 25 min
+
 #### Cook: 30 min
+
 #### Cuts into 12 slices
 
 ## Ingridients
 
 * For the cake
 
-   * 70g softened unsalted butter
+* 70g softened unsalted butter
 
-   * 120g caster sugar
+* 120g caster sugar
 
-   * 2 medium eggs
+* 2 medium eggs
 
-   * 140g self-raising flour
+* 140g self-raising flour
 
-   * 1 tsp baking powder
+* 1 tsp baking powder
 
-   * finely grated zest 1 lemon
+* finely grated zest 1 lemon
 
-   * 1 tbsp lemon curd
+* 1 tbsp lemon curd
 
-   * 2 tbsp full-fat milk
+* 2 tbsp full-fat milk
 
 * For the drizzle topping
- 
+
   * 30g granulated sugar
 
   * juice 1 lemon
 
 * For the feather icing
- 
+
   * 250g icing sugar
 
   * 3 tbsp water
